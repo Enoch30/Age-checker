@@ -47,7 +47,6 @@
                     <span class='text-muted'>Date of birth</span>
                     <span class="mt-3 md-form form-control" id='aap'>
                         <input type="date" id="aap" name="date"  required>
-                        <input type="time"  name="time"  required>
                     </span>
                 </div>
                 <div class=" d-flex justify-content-center">

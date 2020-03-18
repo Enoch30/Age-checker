@@ -1,7 +1,7 @@
 <?php
     //echo 'Test';
     $name = $_GET['fullname'];
-    $dob = $_GET['date'].' '.$_GET['time'];
+    $dob = $_GET['date'];
     $servername = "localhost";
     $username = "root";
     $password = "";
